@@ -183,8 +183,7 @@ header {
   appearance: none;
   border: 1px solid var(--primary-color);
 }
-btn:active,
-btn:focus {
+.btn:focus{
   outline: none;
 }
 .btn_prime {
@@ -531,6 +530,9 @@ btn:focus {
   color: #737373;
   width: 160px;
   text-align: center;
+}
+.pricing__card-subtitle.card__light{
+  color: #fff;
 }
 .pricing__card-prices {
   font-weight: bold;
