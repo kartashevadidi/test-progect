@@ -1107,9 +1107,7 @@ header {
   .contacts__bg-block {
     width: 100%;
   }
-  .contacts__bg {
-    width: 100%;
-  }
+  
   .contacts__info-block {
     width: 100%;
   }
@@ -1118,7 +1116,8 @@ header {
     position: static;
     max-width: 100%;
     transform: none;
-    height: unset;
+    width: 100%;
+    
   }
 
   .footer__wrap {
