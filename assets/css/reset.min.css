@@ -26,6 +26,11 @@ body {
   min-height: 100vh;
   text-rendering: optimizeSpeed;
   line-height: 1.5;
+  font-family: "Montserrat";
+  font-size: 14px;
+  margin: 0;
+  line-height: 1.4;
+  letter-spacing: 0.2px;
 }
 a:not([class]) {
   text-decoration-skip-ink: auto;
